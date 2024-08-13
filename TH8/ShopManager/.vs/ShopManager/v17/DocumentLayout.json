@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Learning-ASP.NET-Core\\ThucHanh\\TH8\\ShopManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1AE075-E529-45FE-8666-370C339C200F}|ShopManager\\ShopManager.csproj|d:\\study\\learning-asp.net-core\\thuchanh\\th8\\shopmanager\\shopmanager\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1AE075-E529-45FE-8666-370C339C200F}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1AE075-E529-45FE-8666-370C339C200F}|ShopManager\\ShopManager.csproj|d:\\study\\learning-asp.net-core\\thuchanh\\th8\\shopmanager\\shopmanager\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A1AE075-E529-45FE-8666-370C339C200F}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\Learning-ASP.NET-Core\\ThucHanh\\TH8\\ShopManager\\ShopManager\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Learning-ASP.NET-Core\\ThucHanh\\TH8\\ShopManager\\ShopManager\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ShopManager\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T10:10:41.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Study\\Learning-ASP.NET-Core\\ThucHanh\\TH8\\ShopManager\\ShopManager\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Study\\Learning-ASP.NET-Core\\ThucHanh\\TH8\\ShopManager\\ShopManager\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ShopManager\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAuwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:12:17.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
