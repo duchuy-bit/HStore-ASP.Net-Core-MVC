@@ -16,7 +16,7 @@ SQL Server 2019
 ```bash
 https://go.microsoft.com/fwlink/?linkid=866664&clcid=0x409&culture=en-us&country=us
 ```
-<br />
+
 
 SQL Server Management Studio (SSMS)
 
@@ -24,7 +24,7 @@ SQL Server Management Studio (SSMS)
 https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 ```
 
-<br />
+
 
 Hướng dẫn cài đặt
 
@@ -33,7 +33,7 @@ https://howkteam.vn/course/huong-dan-cai-dat/cai-dat-sql-server-2019-4058
 ```
 
 
-<br />
+
 
 ## IDE
 
@@ -43,7 +43,7 @@ Version 17.10.5
 ```bash
 https://visualstudio.microsoft.com/downloads/
 ```
-<br />
+
 
 ##  .NET
 
@@ -52,7 +52,7 @@ Phiên bản: .NET 7.0
 ```bash
 https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 ```
-<br />
+
 
 # License
 
